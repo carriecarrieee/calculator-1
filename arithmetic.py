@@ -4,15 +4,15 @@ def add(num1, num2):
 
 def subtract(num1, num2):
     """Return the difference of two numbers"""
-    pass
+    return num1 - num2
 
 def multiply(num1, num2):
     """Return the product of two numbers"""
-    pass
+    return num1 * num2
 
 def divide(num1, num2):
     """Return the quotient of two numbers as a float"""
-    pass
+    return num1 / num2
 
 def square(num):
     """Return the square of a number"""
